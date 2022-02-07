@@ -31,7 +31,8 @@ The purpose of this analysis was to determine what changes to our district and s
 ![school_size_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_size_revised.png)
 
 * School type metrics only changed for the Charted group which saw increased passing %'s due to the correction in Thomas HS's scores
-* ![school_type_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_type_revised.png)
+
+![school_type_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_type_revised.png)
  
 ## Summary
 
