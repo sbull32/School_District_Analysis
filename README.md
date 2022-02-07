@@ -13,21 +13,25 @@ The purpose of this analysis was to determine what changes to our district and s
 
 ### School Summary
 * For our schools summary, the only changes which occured were the scores (and passing %'s) for Thomas HS which increased significantly as detailed below.
-* ![school_summary_comparison](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/School_Summary_revised.png)
+
+![school_summary_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/School_Summary_revised.png)
 
 ### Thomas HS
-* After removing the 9th grade scores by replacing them with NaN's, Thomas HS saw a significant increase in its passing % rates (math rates increased from 66.9% to 93.2%, reading was increased from 69.7% to 97%, and overall passing went from 65.1% to 90.6%)
-* ![Thomas_HS_summary](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/school_summary_comparison.png)
+* After removing the 9th grade scores by replacing them with NaN's, Thomas HS saw a significant increase in its passing % rates (math grades increased from 66.9% to 93.2%, reading was increased from 69.7% to 97%, and overall passing went from 65.1% to 90.6%)
+
+![Thomas_HS_summary](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_summary_comparison.png)
 
 ### School Spending, Size, Type and Scores by Grade
 * School spending metrics only changed for the $630-$644 group which saw increased passing %'s due to the correction in Thomas HS's scores
-* ![school_spending_comparison](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/school_scores_per_spending_revised.png)
+
+![school_spending_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_spending_revised.png)
 
 * School size metrics only changed for the Medium group which saw increased passing %'s due to the correction in Thomas HS's scores
-* ![school_size_comparison](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/school_scores_per_size_revised.png)
+
+![school_size_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_size_revised.png)
 
 * School type metrics only changed for the Charted group which saw increased passing %'s due to the correction in Thomas HS's scores
-* ![school_type_comparison](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/school_scores_per_type_revised.png)
+* ![school_type_comparison](https://github.com/sbull32/School_District_Analysis/blob/main/School_District_Analysis/Resources/school_scores_per_type_revised.png)
  
 ## Summary
 
