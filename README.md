@@ -1,5 +1,5 @@
 # School_District_Analysis
-Module 4 Challenge
+
 
 ## Overview
 The purpose of this analysis was to determine what changes to our district and school summary analysis occurred when we updated Thomas High School's 9th grade students math and reading scores with N/A. There was a question with the validity of these students math and reading scores.
@@ -8,7 +8,7 @@ The purpose of this analysis was to determine what changes to our district and s
 
 ### District Summary 
 * The district summary was relatively unchanged by the updated scores since only 461 scores were affected out of 39170 total students. However they did slightly raise the percentages passing by .3% overall, by .2% for math and .1% for reading.
-* ![district_summary_comparison](C:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 4/School_Distict_Analysis/Resources/district_summary_comparison.png)
+* ![district_summary_comparison](https://github.com/sbull32/School_District_Analysis/tree/main/School_District_Analysis/Resources/district_summary_comparison.png)
 
 ### School Summary
 * For our schools summary, the only changes which occured were the scores (and passing %'s) for Thomas HS which increased significantly as detailed below.
